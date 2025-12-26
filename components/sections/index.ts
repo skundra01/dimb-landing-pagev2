@@ -1,0 +1,12 @@
+export { HeroSection } from './hero-section'
+export { BehavioralHooksSection } from './behavioral-hooks-section'
+export { ValuePropSection } from './value-prop-section'
+export { BeforeAfterSection } from './before-after-section'
+export { ProblemSection } from './problem-section'
+export { SolutionSection } from './solution-section'
+export { HowItWorksSection } from './how-it-works-section'
+export { FeaturesSection } from './features-section'
+export { EarlyAccessSection } from './early-access-section'
+export { FaqSection } from './faq-section'
+export { FinalCTA } from './final-cta'
+
