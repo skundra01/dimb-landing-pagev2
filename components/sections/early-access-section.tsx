@@ -22,10 +22,10 @@ export const EarlyAccessSection = () => {
             letterSpacing="widest"
             textTransform="uppercase"
           >
-            Early Access
+            Learn More
           </Text>
           <Heading as="h2" size="xl" color="white">
-            We&apos;re working with a select group of distributors to get this right.
+            Built for distributors who need reliable solutions.
           </Heading>
           <Text
             fontSize={['lg', 'xl']}
@@ -33,11 +33,11 @@ export const EarlyAccessSection = () => {
             lineHeight="tall"
             maxW="800px"
           >
-            DimB is in early production with select distribution companies. We&apos;re looking for a few more partners who want to shape the product alongside us.
+            DimB is designed specifically for distribution companies with specialty product catalogs and expertise.
           </Text>
           <Box bg="whiteAlpha.100" p={6} borderRadius="xl" border="1px solid" borderColor="whiteAlpha.200">
              <Text fontWeight="medium" color="white">
-              If you&apos;re a distributor with 10,000+ SKUs and a team that&apos;s hungry to sell more per order, let&apos;s talk.
+              If you&apos;re a distributor with 1,000+ SKUs looking to scale your product expertise across your team, let&apos;s discuss how DimB can support your business.
             </Text>
           </Box>
           <ButtonLink
