@@ -1,3 +1,5 @@
+import { Analytics } from '@vercel/analytics/next'
+
 import { Provider } from './provider'
 
 export default function Layout(props: { children: React.ReactNode }) {
@@ -25,6 +27,7 @@ export default function Layout(props: { children: React.ReactNode }) {
       </head>
       <body>
         <Provider>{props.children}</Provider>
+        <Analytics />
       </body>
     </html>
   )
