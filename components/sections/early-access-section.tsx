@@ -25,7 +25,7 @@ export const EarlyAccessSection = () => {
             Learn More
           </Text>
           <Heading as="h2" size="xl" color="white">
-            Built for distributors who need reliable solutions.
+            Built for suppliers who need reliable solutions.
           </Heading>
           <Text
             fontSize={['lg', 'xl']}
@@ -33,11 +33,11 @@ export const EarlyAccessSection = () => {
             lineHeight="tall"
             maxW="800px"
           >
-            DimB is designed specifically for distribution companies with specialty product catalogs and expertise.
+            DimB is designed specifically for distributors with specialty products and expertise.
           </Text>
           <Box bg="whiteAlpha.100" p={6} borderRadius="xl" border="1px solid" borderColor="whiteAlpha.200">
              <Text fontWeight="medium" color="white">
-              If you&apos;re a distributor with 1,000+ SKUs looking to scale your product expertise across your team, let&apos;s discuss how DimB can support your business.
+              If you&apos;re a distributor with 1,000+ SKUs looking to scale your product expertise across your team, let&apos;s discuss how DimB can support you.
             </Text>
           </Box>
           <ButtonLink

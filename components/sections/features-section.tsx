@@ -28,7 +28,7 @@ export const FeaturesSection = () => {
             >
               Capabilities
             </Text>
-            Built for how distributors actually work
+            Designed for real-world reliability
           </>
         }
         description=""
